@@ -1,0 +1,42 @@
+{
+    "gui": {
+        "image-show": true,
+        "image-zoom": true,
+        "window-plotenabled": false,
+        "Browse": "C:/Users/Alain/OneDrive/Documents/LABO/Code/Image_density_analyzer",
+        "timelapse-folder": "C:/Users/Alain/OneDrive/Documents/LABO/Code/Image_density_analyzer",
+        "timelapse-filextension": ".jpg",
+        "timelapse-table": [
+            0
+        ],
+        "timelapse-normal": true,
+        "timelapse-negative": false,
+        "timelapse-color": false,
+        "timelapse-colormap": "Inferno",
+        "timelapse-lowernorm": 1.0,
+        "timelapse-uppernorm": 255.0,
+        "timelapse-roi_w": "100",
+        "timelapse-roi_h": "50",
+        "bin-blur": 21.0,
+        "bin-bin": true,
+        "bin-showselec": true,
+        "bin-mask": false,
+        "bin-bsize": 43.0,
+        "bin-bthresh": 1.0,
+        "Browse0": "",
+        "fluo-asc": "",
+        "fluo-name": "SEQ2",
+        "fluo-raw": true,
+        "fluo-onlyfm": false,
+        "Browse1": "",
+        "fluo-folder": "C:/Users/Alain/OneDrive/Documents/LABO/Code/Image_density_analyzer",
+        "-TAB GROUP-": "Images"
+    },
+    "skiplist": [
+        "Browse",
+        "Browse0",
+        "Browse1",
+        "fluo-asc",
+        "image-zoom"
+    ]
+}
